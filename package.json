@@ -1,0 +1,29 @@
+{
+  "name": "ghost-bcs",
+  "version": "1.0.0",
+  "description": "在 ghost 中添加 Baidu BCS 云存储支持",
+  "main": "bcs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickdoth/ghost-bcs"
+  },
+  "keywords": [
+    "ghost",
+    "baidu",
+    "bae",
+    "bcs"
+  ],
+  "author": "nickdoth",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/nickdoth/ghost-bcs/issues"
+  },
+  "homepage": "https://github.com/nickdoth/ghost-bcs",
+  "dependencies": {
+    "baidu-bcs": "^0.4.0"
+  },
+  "devDependencies": {}
+}
