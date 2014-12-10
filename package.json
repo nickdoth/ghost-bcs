@@ -1,6 +1,6 @@
 {
   "name": "ghost-bcs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "在 ghost 中添加 Baidu BCS 云存储支持",
   "main": "bcs.js",
   "scripts": {
